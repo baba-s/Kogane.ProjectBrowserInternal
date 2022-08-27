@@ -1,4 +1,4 @@
-# UniProjectBrowserInternal
+# Kogane Project Browser Internal
 
 Project ビューの internal な機能を呼び出せるようにするクラス
 
